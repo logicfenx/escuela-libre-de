@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/escuela-libre-de",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a escuela-libre-de",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/escuela-libre-de.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://wbt.link/escuela-libre-de-psicologia/"
+    },
+    "homepage": "https://wbt.link/escuela-libre-de-psicologia/"
+}
